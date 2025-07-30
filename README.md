@@ -2,7 +2,7 @@
 
 ## 🧩 Sobre mim
 
-Sou Técnico de Enfermagem com atuação prática em saúde, e também Técnico EM Tecnologia da Informação com experiência em suporte, administração de banco de dados e redes.  
+Sou Técnico de Enfermagem com atuação prática em saúde, e também Técnico Em Tecnologia da Informação com experiência em suporte, administração de banco de dados e redes.  
 Atualmente curso **Engenharia de Software**, buscando unir saúde, tecnologia e automação para criar soluções eficientes, seguras e inovadoras.
 
 ---
